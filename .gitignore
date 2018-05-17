@@ -2,3 +2,5 @@
 CR
 img
 out
+.DS_Store
+.Rproj.user/*
